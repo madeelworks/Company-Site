@@ -5,6 +5,8 @@ This project is a company website built using React and several key features to 
 ## Technologies Used:
 
 React: The core library used for building the user interface.
+**
+
 react-router-dom: Used for client-side routing to navigate between different pages.
 Tailwind CSS: A utility-first CSS framework for fast and responsive styling.
 HTML: For structuring the content.
